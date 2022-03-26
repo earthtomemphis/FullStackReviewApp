@@ -15,8 +15,10 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
+		"@types/mongoose": "^5.11.97",
 		"@types/nodemon": "^1.19.1",
 		"express": "^4.17.3",
+		"mongoose": "^6.2.8",
 		"nodemon": "^2.0.15",
 		"passport": "^0.5.2",
 		"passport-google-oauth20": "^2.0.0"
